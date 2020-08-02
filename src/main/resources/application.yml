@@ -1,0 +1,6 @@
+server:
+  port: 9080
+  servlet:
+    context-path: /kafka-demo
+common:
+  msgTopic: topic.quick.demo
